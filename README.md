@@ -2,7 +2,7 @@
 efi for oc 0.8.4 with macos monterey 12.6
 
 For Graphic:
-In my case , I have 6600xt which doesn't need kext or something .
+In my case , I have 6600xt which doesn't need kext or something to drive .
 
 For Audio:
 In my case,I use Audio-Technica m40x, and my audio chip is AC1220. So All I need to do is modify the [DeviceProperties] until it results like the last picture. Ps: If you're using ID like 7,27 , the earphone would work too , but it would constantly make voltaic noises ,thus modify until it's perfect.
